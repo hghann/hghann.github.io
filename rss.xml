@@ -6,7 +6,7 @@
 <description>Worthyox's RSS Blog.</description>
 <language>en-us</language>
 <link>http://worthyox.github.io/rss.xml</link>
-<atom:link href="http://yourwebsite.com/rss.xml" rel="self" type="application/rss+xml" />
+<atom:link href="http://worthyox.github.io/rss.xml" rel="self" type="application/rss+xml" />
 
 <!-- LB -->
 
@@ -14,7 +14,7 @@
 <title>  Worthyox's Blog</title>
 <guid>https://worthyox.gitgub.io/rss-test.html</guid>
 <link>https://worthyox.gitgub.io/rss-test.html</link>
-<pubDate>Thu, 30 Sep 2021 10:50:14 -0400</pubDate>
+<pubDate>Thu, 30 Sep 2021 10:54:57 -0400</pubDate>
 <description><![CDATA[<!DOCTYPE html>
 <html lang="en">
 <head>
