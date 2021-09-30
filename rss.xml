@@ -12,9 +12,9 @@
 
 <item>
 <title>  Steve's Blog</title>
-<guid>https://worthyox.github.io/rss-test.html</guid>
-<link>https://worthyox.github.io/rss-test.html</link>
-<pubDate>Thu, 30 Sep 2021 12:07:29 -0400</pubDate>
+<guid>https://worthyox.github.io/testing-out-lb.html</guid>
+<link>https://worthyox.github.io/testing-out-lb.html</link>
+<pubDate>Thu, 30 Sep 2021 12:14:14 -0400</pubDate>
 <description><![CDATA[<!DOCTYPE html>
 <html lang="en">
 <article>
@@ -23,12 +23,11 @@
 <p>Hey! Thanks for checking out my blog. It&#8217;s powered by Luke Smith&#8217;s lb, a minimalist
 &#8220;luke&#8217;s blog&#8221; or &#8220;less bloat&#8221; script that essentially generates a static website.
 Much better than JavaScript backends or a LEMP server!</p>
-<p>This also has an RSS feed: https:&#47;&#47;worthyox.github.io&#47;rss.xml. Subscribe to it to recieve
+<p>This also has an RSS feed: <a href="https://worthyox.github.io/rss.xml">https:&#47;&#47;worthyox.github.io&#47;rss.xml</a>. Subscribe to it to recieve
 all my blog posts!</p>
 </article>
 ]]></description>
 </item>
-
 
 </channel>
 </rss>
