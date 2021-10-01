@@ -9,7 +9,7 @@ Here are some cool websites, friends and other things!
 The brains behind the wonderful utility
 [ssg](https://www.romanzolotarev.com/ssg.html) and
 [pass](https://www.romanzolotarev.com/pass.html). He posts how to articles on
-everything web related and has a miniseries on running OpenBSD on bare metal.
+everything web-hosting related and has a mini-series on running OpenBSD on bare metal!
 
 
 ### ![Luke Smith](https://worthyox.github.io/pix/luke.png =25x25) [Luke Smith](https://lukesmith.xyz/)
