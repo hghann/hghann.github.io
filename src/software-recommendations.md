@@ -5,20 +5,20 @@ This article contains the software I use and recommend; Most of it
 requires little to no elite knowledge of GNU/Linux or software in general;
 which doesn't mean learning is bad.
 
-  I prefer running UNIX-like operating systems
+> I prefer running UNIX-like operating systems
 
 ## Operating systems
 
 Of course for the most part I run GNU/Linux systems; Operating systems based
-off the GNU core utilities and the Linux kernel that some people call "Linux
-distros" for brevity. My Linux distro of choice is Arch Linux, mostly because
+off the GNU core utilities and the Linux kernel that some people call "distros".
+My Linux distro of choice is Arch Linux, mostly because
 it offers a fast package manager with a large-enough pool of updated software,
 all the configuration and software is kept as simple as possible making
 maintainence a breeze, and the Arch User Repository offers an excellent way to
 installs packages outside of the relatively small vanilla repos. The AUR makes
 Arch (probably) the single distro with most software available for it.
 
-  However this doesn't mean Arch Linux is flawless...
+> However this doesn't mean Arch Linux is flawless...
 
 ## (Other) Operating Systems
 
