@@ -1,4 +1,5 @@
-% Contact
+Contact
+===
 
 # Digital Contact Information
 
