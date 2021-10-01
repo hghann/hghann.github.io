@@ -1,4 +1,5 @@
 # Lots of people on the Webring!
+October 1, 2021
 
 Alright, I know, the ["webring"](https://worthyox.github.io/webring.html) is
 not actually a proper webring, just a list of poorly-linked websites, but I had
