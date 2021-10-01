@@ -5,7 +5,6 @@ This article contains the software I use and recommend; Most of it
 requires little to no elite knowledge of GNU/Linux or software in general;
 which doesn't mean learning is bad.
 
-> I prefer running UNIX-like operating systems
 
 ## Operating systems
 
@@ -19,6 +18,7 @@ installs packages outside of the relatively small vanilla repos. The AUR makes
 Arch (probably) the single distro with most software available for it.
 
 > However this doesn't mean Arch Linux is flawless...
+
 
 ## (Other) Operating Systems
 
@@ -36,7 +36,19 @@ Artix, Arch Linux without systemd, may ship more broken or incomplete packages.
 There are also some packages I use that rely on systemd. If you are willing to
 live with these slight flaws, then Artix or Devuan is for you.
 
-There are the BSDs too
+Gnu/Linux isn't the only option when looking for a free and open source
+operating systems. The BSD family of operating systems are a sold option and in
+y opinion are far superior as core operating systems. Yet, software
+availability isn't as good as Linux in a whole, not to say that it lacks
+softwares. Plenty of well known open source software projects on Linux are
+ported to the BSDs, especially FreeBSD, check
+[FreshPorts](https://www.freshports.org/) for an updated list. I would recomend
+FreeBsd for users looking for a solid over all BSD "disto". It's the ArchLinux
++ Debian combo of the BSDs. It's stable and has best software availability. For
+elite users, looking for the original BSD experience, look no further than
+OpenBSD, a BSD that emphasizes portability, standardization, correctness,
+proactive security and integrated cryptography.
+
 
 ## Shell
 
@@ -46,6 +58,7 @@ functions along with wonderful colorscheme compared to boring 'ol Bash.
 However, I still keep Dash installed and run it ocassionaly to run more complex
 one-liner commands.
 
+
 ## Text Editing
 
 My choice of text editor is often vim; it offers a lot of complex and powerful
@@ -54,6 +67,7 @@ terminal. However, while I mostly use vim to write I understand why people may
 wish to use a more "user friendly" option such as a graphical text editor. For
 this I recommend [Notepadqq](https://notepadqq.com/s/).
 
+
 ## Window Management/"DE"
 
 I personally prefer using the Dynamic Window Manager -
@@ -61,6 +75,7 @@ I personally prefer using the Dynamic Window Manager -
 one that most easily gets out of my way and puts emphasis on what I really care
 about: The actual programs I run on my machine. I also keep xfce on my system for
 the "traditional" desktop experience.
+
 
 ## Web Browser
 

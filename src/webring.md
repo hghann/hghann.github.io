@@ -8,7 +8,7 @@ Here are some cool websites, friends and other things!
 ### ![Rgz](https://worthyox.github.io/pix/romanzolotarev.png =25x25) [Roman Zolotarev](https://www.romanzolotarev.com/)
 The brains behind the wonderful utility
 [ssg](https://www.romanzolotarev.com/ssg.html) and
-[pass](https://www.romanzolotarev.com/pass.html). He posts how to articles on
+[pass](https://www.romanzolotarev.com/pass.html). He posts how-to articles on
 everything web-hosting related and has a mini-series on running OpenBSD on bare metal!
 
 
