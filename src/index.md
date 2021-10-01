@@ -6,7 +6,7 @@ On this website I usually post guides and tutorials but who knows, maybe it’ll
 
 ## Articles
 
-2021 Oct 1 - [Lots of People on the Webring!](https://worthyox.github.io/lots-of-ppl-on-the-webring.html)
+2021 Oct 1 – [Lots of People on the Webring!](https://worthyox.github.io/lots-of-ppl-on-the-webring.html)
 
 2021 Sep 30 – [Software Recommendations](https://worthyox.github.io/software-recommendations.html)
 
