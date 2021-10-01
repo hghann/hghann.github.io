@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="style.css">
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Open+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/93866eaaa9.js" crossorigin="anonymous"></script>
+  <title>Steve's Blog</title>
+</head>
+
+<body class="light-mode">
+
+  <nav class="menu">
+  <div class="nav-left">
+    <ul>
+      <li><a href="index.html"><span class="sitename">Steve's blog</span></a></li>
+    </ul>
+  </div>
+  <div class="nav-right">
+    <ul>
+      <li style="padding: 9px"><a id="darkmodetoggle" class="fas fa-moon" onclick="switchTheme()"></a></li>
+      <li><a href="mailto:">contact</a></li>
+      <li><a href="https://worthyox.github.io/donate.html">donate</a></li>
+      <li><a href="https://github.com/worthyox">github</a></li>
+      <li><a href="https://worthyox.github.io/rss.xml">rss</a></li>
+    </ul>
+  </div>
+</nav>
+
+<article>
+<h1 id="Software%20Recommendations">Software Recommendations</h1>
+
+<p>September 30, 2021</p>
+
+<p>A lot of people know me for my &#8220;Just use&#8221; software series.
+But while I try to make as many videos as possible to cover all the &#8220;free
+software&#8221; replacements for software many people use daily, I couldn&#8217;t make a
+video on every piece of software.</p>
+
+<p>This article simply contains the software I use and recommend; Most of it
+requires little to no elite® knowledge of GNU&#47;Linux or software in general;
+which doesn&#8217;t mean learning is bad.  Operating Systems</p>
+
+<h3 id="I%20prefer%20to%20run%20UNIX-like">I prefer to run UNIX-like</h3>
+
+<h2 id="Operating%20systems.">Operating systems.</h2>
+
+<p>Of course for the most part I run GNU&#47;Linux systems; Operating systems based
+off the GNU core utilities and the Linux kernel that some people call &#8220;Linux
+distros&#8221; for brevity. My Linux distro of choice is Arch Linux, mostly because
+it offers a fast package manager with a large-enough pool of updated software,
+all the configuration and software is kept as simple as possible making
+maintainence a breeze, and the Arch User Repository offers an excellent way to
+installs packages outside of the relatively small vanilla repos. The AUR makes
+Arch (probably) the single distro with most software available for it.</p>
+
+<h3 id="However%20this%20doesn&amp;#8217;t%20mean%20Arch%20Linux%20is%20flawless&amp;#8230;">However this doesn&#8217;t mean Arch Linux is flawless&#8230;</h3>
+
+<h2 id="(Other)%20Operating%20Systems">(Other) Operating Systems</h2>
+
+<p>I think many more advanced Linux users wish to compile more software, for
+example their kernel, from source. Compiling your software from source offers a
+lot of performance advantages, and for this a distribution like Gentoo or KISS
+Linux is what I&#8217;d recommend.</p>
+
+<p>There is also the issue of systemd, the init system of choice for Arch Linux.
+Systemd does not follow the UNIX philosophy of being a small, simple,
+one-purpose program that&#8217;s easy to understand; Just like the Linux kernel, it
+is large and evergrowing, and mostly monolythic. I choose to use systemd and
+Arch Linux merely out of necessity and convenience; A distribution such as
+Artix, Arch Linux without systemd, may ship more broken or incomplete packages.
+There are also some packages I use that rely on systemd. If you are willing to
+live with these slight flaws, then Artix or Devuan is for you.</p>
+
+<h2 id="Shell">Shell</h2>
+
+<p>I normally have multiple shells installed on my system at once; Fish and Bash.
+I have Fish set to my user shell due to its convenient autocomplete and memory
+functions along with wonderful colorscheme compared to boring &#8216;ol Bash.
+However, I still keep Bash installed and run it ocassionaly to run more complex
+one-liner commands.</p>
+
+<h2 id="Text%20Editing">Text Editing</h2>
+
+<p>My choice of text editor is often vim; it offers a lot of complex and powerful
+functionality while also being usable by anyone who can open and type in a
+terminal. However, while I mostly use vim to write I understand why people may
+wish to use a more &#8220;user friendly&#8221; option such as a graphical text editor. For
+this I recommend gedit.</p>
+
+<h2 id="Window%20Management&amp;#47;%22DE&amp;#8221;">Window Management&#47;"DE&#8221;</h2>
+
+<p>I personally prefer using the Openbox floating window manager as I find it to
+be the single one that most easily gets out of my way and puts emphasis on what
+I really care about: The actual programs I run on my machine.</p>
+
+<h2 id="Web%20Browser">Web Browser</h2>
+
+<p>My web browser of choice is Ungoogled Chromium. This is a fork of Google&#8217;s
+Chromium, but with all Google spyware and bloat removed. You get the
+performance and wide support of Google Chrome, without any of the privacy
+concerns. I chose to use this web browser simply because it&#8217;s the most
+&#8220;minimalist&#8221; of them all, not counting independent web browsers like Suckless&#8217;
+Surf.</p>
+
+<p>A similar web browser is LibreWolf; essentially Firefox, but with all telemetry
+and Mozilla bloat removed. It also includes uBlock Origin, which to some people
+is a plus. Then there&#8217;s also the Brave Browser, which blocks ads and shows you
+more &#8220;privacy respecting&#8221; ads to pay you in their crypto, BAT. I find it to be
+a bit bloated and not exactly my sorta thing, but I don&#8217;t hate it or oppose
+people using it.</p>
+
+<h3 id="That&amp;#8217;s%20pretty%20much%20it%20for%20me.%20Most%20of%20my%20other%20recommendations%20of%20software%20can%20be%20found%20in%20my%20Just%20Use%20software%20series%20anyway.">That&#8217;s pretty much it for me. Most of my other recommendations of software can be found in my Just Use software series anyway.</h3>
+</article>
+
+<footer>
+<p>Licensed under <a href="https://mit-license.org/">MIT</a></br>
+Created with <a href="https://www.romanzolotarev.com/ssg.html">ssg</a> by Roman Zolotarev
+</footer>
+
+<script>
+// Get the theme toggle input
+const currentTheme = localStorage.getItem("theme");// If the current local storage item can be found
+
+// Function that will switch the theme based on the if the theme toggle is checked or not
+function switchTheme() {
+  if (document.documentElement.getAttribute("data-theme") === "dark") {
+    document.documentElement.setAttribute("data-theme", "light");
+    // Set the user's theme preference to dark
+    localStorage.setItem("theme", "light");
+  } else {
+    document.documentElement.setAttribute("data-theme", "dark");
+    // Set the user's theme preference to light
+    localStorage.setItem("theme", "dark");
+  }
+}
+
+// Get the current theme from local storage
+if (currentTheme) {
+        // Set the body data-theme attribute to match the local storage item
+        document.documentElement.setAttribute("data-theme", currentTheme);
+        if (currentTheme === "dark") {
+                document.documentElement.setAttribute("data-theme", "dark");
+       }
+}
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        console.log('user prefers dark scheme, going dark');
+        document.documentElement.setAttribute("data-theme", "dark");
+        }
+</script>
+
+</body>
+</html>
