@@ -4,6 +4,7 @@
 
 ## Digital Contact Information
 
+
 - `steve.7vdcg@simplelogin.co`
 - GPG key for encrypting mail if you know how, [here](https://worthyox.github.io/stevegpg.gpg) or run:
   - curl -sL https://worthyox.github.io/stevegpg.gpg | gpg --import
