@@ -4,7 +4,7 @@
 
 ## Digital Contact Information
 
-- `steve.7vdcg@simplelogin.co`
+- [`steve.7vdcg@simplelogin.co`](mailto:steve.7vdcg@simplelogin.co)
 - GPG key for encrypting mail if you know how, [here](https://worthyox.github.io/stevegpg.gpg) or run:
   - `curl -sL https://worthyox.github.io/stevegpg.gpg | gpg --import`
   - Fingerprint: `0DF9 140B 749D 3940 BAE5 4E7F 4C50 B54A 911F 6252`
