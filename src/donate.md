@@ -19,3 +19,8 @@ bc1qyvkzw7hrtp9ecxd2pa3w7p5dfg09tv6jfrs0df
 ```
 Wo4VWkAQBFHR9W5DqHHyZbKwc4VD7fNYdLso3Fhv57fTNjJijVWT8oFDdhBdqUpYju3zt48cYvMHCJhWnyczzpup1SCBi2FMu
 ```
+
+## Other Methods
+
+- ![Paypal](https://worthyox.github.io/pix/paypal.svg =35x35) [Paypal](https://www.paypal.com/paypalme/worthyox) to `steve.7vdcg@simplelogin.co`
+- ![Librapay](https://worthyox.github.io/pix/liberapay.svg =35x35) [Librapay](https://liberapay.com/worthyox/)
