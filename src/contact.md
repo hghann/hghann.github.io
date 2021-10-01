@@ -1,9 +1,9 @@
-Contact
+# Contact
 
 ---
 
-# Digital Contact Information
+### Digital Contact Information
 
-# Tech support
+### Tech support
 
-# Rules
+### Rules
