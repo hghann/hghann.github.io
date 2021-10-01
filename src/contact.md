@@ -23,4 +23,4 @@ If you identify a bug or small mistyping, you can email me though.
 
 ## Rules
 
-- Don't get offended if you don't get a response. I get a lot of email. I can't do pen pals.
+1. Don't get offended if you don't get a response. I get a lot of email. I can't do pen pals.
