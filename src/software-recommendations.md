@@ -8,6 +8,8 @@ not to say learning is bad...
 
 ## Operating systems
 
+**I prefer to run UNIX-like operating systems.**
+
 Of course for the most part I run [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html)
 systems; Operating systems based off the GNU core utilities and the Linux kernel
 that some people call "distros". My Linux distro of choice is
@@ -18,7 +20,7 @@ maintenance a breeze, and the Arch User Repository (AUR) offers an excellent way
 install packages outside of the relatively small vanilla repos. The AUR makes
 Arch (probably) the single distro with most software available for it.
 
-> However this doesn't mean Arch Linux is flawless...
+**However this doesn't mean Arch Linux is flawless...**
 
 For work, I use MacOS, because why the hell not. It's Unix-like without all the
 crap Microsoft ships with Windows. As of recently, my love towards Apple slowly fading
