@@ -10,9 +10,7 @@
   - Fingerprint: `0DF9 140B 749D 3940 BAE5 4E7F 4C50 B54A 911F 6252`
   - All legitimate emails from me will be signed with my GPG key.
 
-I'm not on Twitter, I'm not on Facebook, I'm not on Reddit, and no account
-there imitating me or any of my "brands" has any association with me other than
-fraudulent.
+I'm not on Facebook, I'm not on Twitter, and I'm not on Reddit.
 
 
 ## Tech support
@@ -23,4 +21,8 @@ If you identify a bug or small mistyping, you can email me though.
 
 ## Rules
 
-1. Don't get offended if you don't get a response. I get a lot of email. I can't do pen pals.
+1. Don't get offended if you don't get a response. I get a lot of emails.
+
+<small>
+<a href="index.html">← Home</a>
+</small>

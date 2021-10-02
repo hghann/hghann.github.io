@@ -30,3 +30,7 @@ bc1qyvkzw7hrtp9ecxd2pa3w7p5dfg09tv6jfrs0df
 
 - ![Paypal](https://worthyox.github.io/pix/paypal.svg =15x15) [Paypal](https://www.paypal.com/paypalme/worthyox) to `steve.7vdcg@simplelogin.co`
 - ![Librapay](https://worthyox.github.io/pix/liberapay.svg =15x15) [Librapay](https://liberapay.com/worthyox/)
+
+<small>
+<a href="index.html">← Home</a>
+</small>

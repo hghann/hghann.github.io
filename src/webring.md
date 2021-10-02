@@ -46,6 +46,9 @@ material along with some blogs on this site.
 Wolfgang's personal website. He makes videos about computers, Thinkpads, Linux/Unix and other stuff.
 
 
+# ![Konstantin Nazarov]( =25x25) [Konstantin Nazarov](https://knazarov.com/)
+
+
 ### ![DT](https://worthyox.github.io/pix/dt.jpeg =25x25) [DistroTube](https://distro.tube/)
 DistroTube.com is a site created by Derek Taylor (DT), creator of the
 DistroTube (DT) video channel on YouTube and Odysee (LBRY). He create videos
@@ -55,3 +58,6 @@ about GNU/Linux, free software, open source software and related interests.
 ### ![Monstro](https://worthyox.github.io/pix/monstro.png =25x25) [Monstro](https://monstro1.com/)
 Monstro's personal site. He also has a PeerTube instance and a Matrix homserver.
 
+<small>
+<a href="index.html">← Home</a>
+</small>
