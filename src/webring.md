@@ -46,7 +46,7 @@ material along with some blogs on this site.
 Wolfgang's personal website. He makes videos about computers, Thinkpads, Linux/Unix and other stuff.
 
 
-# ![Konstantin Nazarov](/pix/kostantinnaz =25x25) [Konstantin Nazarov](https://knazarov.com/)
+### ![Konstantin Nazarov](/pix/kostantinnaz.jpeg =25x25) [Konstantin Nazarov](https://knazarov.com/)
 Konstantin Nazarov's personal website. He is a software engineer that makes tech related videos.
 
 ### ![DT](https://worthyox.github.io/pix/dt.jpeg =25x25) [DistroTube](https://distro.tube/)
