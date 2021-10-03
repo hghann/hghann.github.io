@@ -7,8 +7,10 @@ On this website I usually post guides, tutorials, side projects, and thoughts
 on software development. It may not seem like a lot, but that's by design. I'm
 trying to remove distractions and focus on things that matter.
 
+<img src="pix/worker.gif" style="max-width: 50%;margin: 4%;display: block;" alt="Under construction...">
 
-## Articles
+
+## Recent Blog Posts
 
 - 2021 Oct 1 – [Lots of People on the Webring!](https://worthyox.github.io/lots-of-ppl-on-the-webring.html)
 
