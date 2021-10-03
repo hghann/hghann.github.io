@@ -1,6 +1,6 @@
 Hey there!
 
-I'm Steve! And this is my personal website; I hope you enjoy browsing it as
+My name is Steve and this is my personal website. I hope you enjoy browsing it as
 much as I enjoyed making it!
 
 On this website I usually post guides, tutorials, side projects, and thoughts
