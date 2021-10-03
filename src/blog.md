@@ -10,6 +10,4 @@ Welcome to my blog! Powered by Luke Smith's [lb](https://github.com/lukesmithxyz
 
 - 2021 Sep 29 – [Testing out lb](https://worthyox.github.io/testing-out-lb.html)
 
-<small>
-<a href="index.html">← Home</a>
-</small>
+<small><a href="index.html">← Home</a></small>

@@ -58,6 +58,4 @@ about GNU/Linux, free software, open source software and related interests.
 ### ![Monstro](https://worthyox.github.io/pix/monstro.png =30x30) [Monstro](https://monstro1.com/)
 Monstro's personal site. He also has a PeerTube instance and a Matrix homserver.
 
-<small>
-<a href="index.html">← Home</a>
-</small>
+<small><a href="index.html">← Home</a></small>
