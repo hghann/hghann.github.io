@@ -2,7 +2,9 @@
 
 ---
 
-![apu-band](/pix/apu_band.gif =center)
+<p align="center">
+![apu-band](/pix/apu_band.gif)
+</p>
 
 ## Digital Contact Information
 
