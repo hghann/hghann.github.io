@@ -1,12 +1,12 @@
 # Lots of people on the Webring!
 October 1, 2021
 
-Alright, I know, the ["webring"](https://hi-sg.github.io/webring.html) is
+Alright, I know, the ["webring"](https://hghann.github.io/webring.html) is
 not actually a proper webring, just a list of poorly-linked websites, but I had
 no idea what to name the page otherwise.
 
 I've added lots of new websites to the
-[webring page](https://hi-sg.github.io/webring.html)! I've also added colorful
+[webring page](https://hghann.github.io/webring.html)! I've also added colorful
 icons next to everyone, for extra visual flair! I'm probably going to add a few more
 friends there, and maybe some social media links too.
 
