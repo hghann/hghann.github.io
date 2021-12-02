@@ -16,19 +16,19 @@ trying to remove distractions and focus on things that matter.
 
 ## Recent Blog Posts
 
-- 2021 Oct 3 – [Software Recommendations](https://worthyox.github.io/software-recommendations.html)
+- 2021 Oct 3 – [Software Recommendations](https://hi-sg.github.io/software-recommendations.html)
 
-- 2021 Oct 1 – [Lots of People on the Webring!](https://worthyox.github.io/lots-of-ppl-on-the-webring.html)
+- 2021 Oct 1 – [Lots of People on the Webring!](https://hi-sg.github.io/lots-of-ppl-on-the-webring.html)
 
-- 2021 Sep 29 – [Testing out lb](https://worthyox.github.io/testing-out-lb.html)
+- 2021 Sep 29 – [Testing out lb](https://hi-sg.github.io/testing-out-lb.html)
 
 
-My [personal blog](https://worthyox.github.io/blog.html) contains the types
+My [personal blog](https://hi-sg.github.io/blog.html) contains the types
 articles you've come to expect from any internet blog, alongside some more
 nuanced and different entries such as
-[technical recommendations](https://worthyox.github.io/software-recommendations.html).
-You can also subscribe to my blog's [RSS](https://worthyox.github.io/rss.xml)
+[technical recommendations](https://hi-sg.github.io/software-recommendations.html).
+You can also subscribe to my blog's [RSS](https://hi-sg.github.io/rss.xml)
 feed if you wish.
 
 
-## *[Here's some other sites!](https://worthyox.github.io/webring.html)*
+## *[Here's some other sites!](https://hi-sg.github.io/webring.html)*

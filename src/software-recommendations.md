@@ -140,6 +140,6 @@ solid choice. For casual pdf viewing, I use [Zathura](https://pwmt.org/projects/
 a highly customizable and minimal pdf viewer. [SXIV](https://github.com/muennich/sxiv) as an
 image viewer and [dmenu](https://tools.suckless.org/dmenu/) as an application menu.
 
-> *configs to all the programs I mentioned in this article and more are hosted on my [GitHub](https://github.com/worthyox) page*
+> *configs to all the programs I mentioned in this article and more are hosted on my [GitHub](https://github.com/hi-sg) page*
 
 <small><a href="index.html">← Home</a></small>

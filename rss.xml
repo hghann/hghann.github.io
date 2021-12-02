@@ -4,18 +4,18 @@
 <title>Steve's Blog</title>
 <description>Steve's RSS Blog.</description>
 <language>en-us</language>
-<link>http://worthyox.github.io/rss.xml</link>
-<atom:link href="http://worthyox.github.io/rss.xml" rel="self" type="application/rss+xml" />
+<link>http://hi-sg.github.io/rss.xml</link>
+<atom:link href="http://hi-sg.github.io/rss.xml" rel="self" type="application/rss+xml" />
 <image>
 <title>Steve's Blog</title>
-<url>https://worthyox.github.io/favicon.png</url>
-<link>https://worthyox.github.io/rss.xml</link>
+<url>https://hi-sg.github.io/favicon.png</url>
+<link>https://hi-sg.github.io/rss.xml</link>
 </image>
 <!-- LB -->
 <item>
 <title>Software Recommendations</title>
-<guid>https://worthyox.github.io/software-recommendations.html</guid>
-<link>https://worthyox.github.io/software-recommendations.html</link>
+<guid>https://hi-sg.github.io/software-recommendations.html</guid>
+<link>https://hi-sg.github.io/software-recommendations.html</link>
 <pubDate>Sun, 03 Oct 2021 20:50:02 -0400</pubDate>
 <description><![CDATA[<!DOCTYPE html>
 <p>This article contains the software I use and recommend. Most of it
@@ -124,7 +124,7 @@ solid choice. For casual pdf viewing, I use <a href="https://pwmt.org/projects/z
 a highly customizable and minimal pdf viewer. <a href="https://github.com/muennich/sxiv">SXIV</a> as an
 image viewer and <a href="https://tools.suckless.org/dmenu/">dmenu</a> as an application menu.</p>
 <blockquote>
-<p><em>configs to all the programs I mentioned in this article and more are hosted on my <a href="https://github.com/worthyox">GitHub</a> page</em></p>
+<p><em>configs to all the programs I mentioned in this article and more are hosted on my <a href="https://github.com/hi-sg">GitHub</a> page</em></p>
 </blockquote>
 ]]></description>
 </item>
@@ -132,15 +132,15 @@ image viewer and <a href="https://tools.suckless.org/dmenu/">dmenu</a> as an app
 
 <item>
 <title>Lots of people on the Webring!</title>
-<guid>https://worthyox.github.io/lots-of-ppl-on-the-webring.html</guid>
-<link>https://worthyox.github.io/lots-of-ppl-on-the-webring.html</link>
+<guid>https://hi-sg.github.io/lots-of-ppl-on-the-webring.html</guid>
+<link>https://hi-sg.github.io/lots-of-ppl-on-the-webring.html</link>
 <pubDate>Fri, 01 Oct 2021 17:40:42 -0400</pubDate>
 <description><![CDATA[<!DOCTYPE html>
-<p>Alright, I know, the <a href="https://worthyox.github.io/webring.html">&#8220;webring&#8221;</a> is
+<p>Alright, I know, the <a href="https://hi-sg.github.io/webring.html">&#8220;webring&#8221;</a> is
 not actually a proper webring, just a list of poorly-linked websites, but I had
 no idea what to name the page otherwise.</p>
 <p>I&#8217;ve added lots of new websites to the
-<a href="https://worthyox.github.io/webring.html">webring page</a>! I&#8217;ve also added colorful
+<a href="https://hi-sg.github.io/webring.html">webring page</a>! I&#8217;ve also added colorful
 icons next to everyone, for extra visual flair! I&#8217;m probably going to add a few more
 friends there, and maybe some social media links too.</p>
 <p>Anyways, I hope whoever&#8217;s subscribed to this RSS feed keeps enjoying these new
@@ -151,14 +151,14 @@ articles! I have tons more where this one came from!</p>
 
 <item>
 <title>Testing out lb...</title>
-<guid>https://worthyox.github.io/testing-out-lb.html</guid>
-<link>https://worthyox.github.io/testing-out-lb.html</link>
+<guid>https://hi-sg.github.io/testing-out-lb.html</guid>
+<link>https://hi-sg.github.io/testing-out-lb.html</link>
 <pubDate>Thu, 30 Sep 2021 12:14:14 -0400</pubDate>
 <description><![CDATA[<!DOCTYPE html>
 <p>Hey! Thanks for checking out my blog. It&#8217;s powered by Luke Smith&#8217;s lb, a minimalist
 &#8220;luke&#8217;s blog&#8221; or &#8220;less bloat&#8221; script that essentially generates a static website.
 Much better than JavaScript backends or a LEMP server!</p>
-<p>This also has an RSS feed: <a href="https://worthyox.github.io/rss.xml">https:&#47;&#47;worthyox.github.io&#47;rss.xml</a>. Subscribe to it to recieve
+<p>This also has an RSS feed: <a href="https://hi-sg.github.io/rss.xml">https:&#47;&#47;hi-sg.github.io&#47;rss.xml</a>. Subscribe to it to recieve
 all my blog posts!</p>
 ]]></description>
 </item>
