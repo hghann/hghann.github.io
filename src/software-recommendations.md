@@ -20,13 +20,6 @@ maintenance a breeze, and the Arch User Repository (AUR) offers an excellent way
 install packages outside of the relatively small vanilla repos. The AUR makes
 Arch (probably) the single distro with most software available for it.
 
-**However this doesn't mean Arch Linux is flawless...**
-
-For work, I use MacOS, because why the hell not. It's Unix-like without all the
-crap Microsoft ships with Windows. As of recently, my love towards Apple slowly fading
-away, but I can't turn a blind eye on the M1 macs; in one word: bizarre!
-
-
 ## (Other) Operating Systems
 
 There is the issue of [systemd](https://www.freedesktop.org/wiki/Software/systemd/),
@@ -54,8 +47,6 @@ integrated cryptography.
 <center>
 <img src="pix/gif/getbsod.gif" alt="Get BSD">
 </center>
-
-**I'm personally planning to embark on a journey to BSD paradise...**
 
 ## Terminal Emulator
 
