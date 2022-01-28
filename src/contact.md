@@ -29,5 +29,3 @@ If you identify a bug or small mistyping, you can email me though.
 ## Rules
 
 1. Don't get offended if you don't get a response. I get a lot of emails.
-
-<small><a href="index.html">← Home</a></small>

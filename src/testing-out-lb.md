@@ -7,5 +7,3 @@ Much better than JavaScript backends or a LEMP server!
 
 This also has an RSS feed: [https://hghann.github.io/rss.xml](https://hghann.github.io/rss.xml). Subscribe to it to recieve
 all my blog posts!
-
-<small><a href="index.html">← Home</a></small>

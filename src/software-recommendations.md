@@ -132,5 +132,3 @@ a highly customizable and minimal pdf viewer. [SXIV](https://github.com/muennich
 image viewer and [dmenu](https://tools.suckless.org/dmenu/) as an application menu.
 
 > *configs to all the programs I mentioned in this article and more are hosted on my [GitHub](https://github.com/hghann) page*
-
-<small><a href="index.html">← Home</a></small>

@@ -36,5 +36,3 @@ bc1qyvkzw7hrtp9ecxd2pa3w7p5dfg09tv6jfrs0df
 
 - ![Paypal](https://hghann.github.io/pix/paypal.svg =15x15) [Paypal](https://www.paypal.com/paypalme/hghann) to `steve.7vdcg@simplelogin.co`
 - ![Librapay](https://hghann.github.io/pix/liberapay.svg =15x15) [Librapay](https://liberapay.com/hghann/)
-
-<small><a href="index.html">← Home</a></small>
